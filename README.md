@@ -38,7 +38,7 @@
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzkim9501&layout=compact&hide=Shell,Batchifile,PowerShell&langs_count=6&theme=react)](https://github.com/yzkim9501/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzkim9501&layout=compact&hide=CSS,SCSS,Shell,Batchifile,PowerShell&langs_count=6&theme=react)](https://github.com/yzkim9501/github-readme-stats)
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yzkim9501&theme=react&hide=prs&count_private=true&show_icons=true&)](https://github.com/yzkim9501/github-readme-stats)
   
 </div>
